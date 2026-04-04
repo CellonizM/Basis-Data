@@ -1,2 +1,2 @@
 # BasisData
-Mata Kuliah Basis Data Marcello K P 2505060021
+Rangkuman materi praktikum basis data 2026
